@@ -1,9 +1,9 @@
-👋 Hi, I'm Brenda Kelly!
+**#👋 Hi, I'm Brenda Kelly!**
 
-🎓 Developer in training | 🚀 Career transitioning
+##🎓 Developer in training | 🚀 Career transitioning
 🏙️ Currently: Architect and Urban Planner
 
-🌱 What I'm currently learning:
+##🌱 What I'm currently learning:
 🖥️ SAP ABAP
 💻 SAP Fiori
 💻 Javascript
