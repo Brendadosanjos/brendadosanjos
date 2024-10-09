@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Brenda Kelly!**
+# **👋 Hi, I'm Brenda dos Anjos!**
 
 ## 🎓 Developer in training | 🚀 Career transitioning
 🏙️ Currently: Architect and Urban Planner
