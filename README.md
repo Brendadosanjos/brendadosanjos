@@ -14,3 +14,6 @@
 
 💡 Fulfilling a childhood dream, I'm taking my first steps into the programming world! Studying every day to be able to improve.
 🌟 Excited to build creative and innovative solutions!
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendadosanjos&layout=compact)
